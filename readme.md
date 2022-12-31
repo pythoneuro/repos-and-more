@@ -1,6 +1,8 @@
-<!-- ![Awesome Neuroscience](./AWESOME2.png) -->
-<img src="./profile_pic.jpeg" width="50%">
+<p align="center">
+	<img src="./profile_pic.jpeg" width="25%" border-radius="50%">
+</p> 
 
+# Pythoneuro
 The list of great Python packages I have posted on [my twitter account](https://twitter.com/pythoneuro) is continually being updated.
 
 My goal is to promote python as the leading language for coding and analyzing in the neuroscience field! 🧠🧑‍🎓👩‍💻
@@ -30,6 +32,7 @@ If you're working on a cool neuroscience Python project, feel free to add yourse
 - [Matlab vs python](https://realpython.com/matlab-vs-python)- Why and how to make the switch
 - [Spikes and Bursts](https://spikesandbursts.wordpress.com/patch-clamp/)- A blog with tutorials on patch-clamp (and more methods) data analysis in python.
 
+---
+
 Thanks for visiting!
 If you like it you can follow me and star this repo :)
-
