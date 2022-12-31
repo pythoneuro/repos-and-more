@@ -22,7 +22,7 @@ If you're working on a cool neuroscience Python project, feel free to add yourse
 - [BluePyOpt](https://github.com/BlueBrain/BluePyOpt)- A framework for data-driven model parameter optimization that wraps and standardizes several existing open-source tools.
 - [Neuro-Nav](https://github.com/awjuliani/neuro-nav)- A library for neurally plausible reinforcement learning (RL).
 - [Pycortex](https://github.com/gallantlab/pycortex)- Visualize fMRI or other volumetric neuroimaging data on cortical surfaces.
-- [yyRiemann](https://github.com/pyRiemann/pyRiemann)- A high-level interface for classifying and manipulating multivariate biosignals through Riemannian Geometry of covariance matrices.
+- [pyRiemann](https://github.com/pyRiemann/pyRiemann)- A high-level interface for classifying and manipulating multivariate biosignals through Riemannian Geometry of covariance matrices.
 - [Pynapple](https://github.com/PeyracheLab/pynapple)- Handle all sorts of physiological and behavioral data.
 - [Pynacollada](https://github.com/PeyracheLab/pynacollada)- Collaborative platform for high-level analysis with pynapple.
 
