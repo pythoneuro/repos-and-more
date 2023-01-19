@@ -25,6 +25,7 @@ If you're working on a cool neuroscience Python project, feel free to add yourse
 - [pyRiemann](https://github.com/pyRiemann/pyRiemann)- A high-level interface for classifying and manipulating multivariate biosignals through Riemannian Geometry of covariance matrices.
 - [Pynapple](https://github.com/PeyracheLab/pynapple)- Handle all sorts of physiological and behavioral data.
 - [Pynacollada](https://github.com/PeyracheLab/pynacollada)- Collaborative platform for high-level analysis with pynapple.
+- [NeuroPyxels](https://github.com/m-beau/NeuroPyxels)- A library for electrophysiologists using Neuropixels electrodes.
 
 ## Other useful links
 - [Case Studies in Neural Data Analysis](https://mark-kramer.github.io/Case-Studies-Python/intro.html)- Python for the practicing neuroscientist: an online educational resource.
