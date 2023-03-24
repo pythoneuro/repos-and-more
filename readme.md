@@ -26,6 +26,7 @@ If you're working on a cool neuroscience Python project, feel free to add yourse
 - [Pynapple](https://github.com/PeyracheLab/pynapple)- Handle all sorts of physiological and behavioral data.
 - [Pynacollada](https://github.com/PeyracheLab/pynacollada)- Collaborative platform for high-level analysis with pynapple.
 - [NeuroPyxels](https://github.com/m-beau/NeuroPyxels)- A library for electrophysiologists using Neuropixels electrodes.
+- [BrainFlow](https://github.com/brainflow-dev/brainflow)- BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG, and other kinds of data from biosensors.
 
 ## Other useful links
 - [Case Studies in Neural Data Analysis](https://mark-kramer.github.io/Case-Studies-Python/intro.html)- Python for the practicing neuroscientist: an online educational resource.
